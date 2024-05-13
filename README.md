@@ -9,8 +9,8 @@
 
 <h3>🧑‍💻Skill List</h3>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white)
+![React]("https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white")
+![Redux]("https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white")
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
