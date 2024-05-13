@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=PhanChanJae&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=PhanChanJae&fontSize=70&animation=twinkling&align=center)
+
 <p align="center">안녕하세요</p>
 <p align="center">개발자를 꿈꾸는 박찬재 입니다.</p>
 <p align="center">항상 어제보다 나은 오늘을 위해 항상 열심히 하겠습니다.</p>
