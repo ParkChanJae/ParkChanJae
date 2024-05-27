@@ -6,7 +6,7 @@
 
 <h3 align="center">📱Chan Jae PortFolio</h3>
 
-<h6 align="center">Portfolio : http://parkcj.dothome.co.kr/</h6>
+<h6 align="center">[Portfolio](http://parkcj.dothome.co.kr/)</h6>
 <a href='https://www.notion.so/Park-Chan-Jae-f49f571eb9e845b299f1455b0b222e45?pvs=4' align="center">Notion</a>
 
 <h3>🧑‍💻Skill List</h3>
